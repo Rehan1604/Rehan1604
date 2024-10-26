@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rehan1604
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning c,c++,pyhton in college
+- 🌱 I’m currently learning c,c++,python in college
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram--rehan._mehta
 
